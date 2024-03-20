@@ -26,12 +26,12 @@ The script simulates various betting scenarios on the UWE side bet, calculating 
 4. Navigate to the directory containing the script.
 3. Use the following command to start the simulation with default parameters:
    ```bash
-   python baccarat_simulation_modular.py
+   python3 baccarat_simulation_modular.py
 
 ### Running the optimization
 To optimize parameters for the simulation, run:
 ```bash
-python parameters_optimizer.py
+python3 parameters_optimizer.py
 ```
 ## Disclaimer
 This project is for educational purposes only. It aims to explore mathematical strategies in gambling and should not be used for actual betting or any form of gambling.
